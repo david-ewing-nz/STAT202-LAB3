@@ -1,7 +1,7 @@
 ---
 title: "STAT202 Assignment 3: \nMultiple Linear Regression II"
-author: "Your Name"
-date: "Due on 14th August 2024"
+author: "David Ewing"
+date: "Due on 7th August 2024"
 output:
    word_document:
       reference_docx: "template.docx"
